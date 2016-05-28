@@ -1,0 +1,103 @@
+<!-- Carousel -->
+	<ul class="home-carousel update-carousel-disable ">
+		<!-- Slide #1 -->
+		<li>
+			<div>
+				<!-- Image -->
+				<img src="app/images/stidhamfinancial/sign-3-med.JPG" alt="sign"/>
+				<!-- /Image -->
+				<div class="home-carousel-title-box">
+					<div class="main">
+						<a href="#about" class="color-blue">
+							<span>
+								<!-- Title -->
+								<span>Search no more for personalized advice</span>
+								<!-- /Title -->
+								<!-- Subtitle -->
+								<span>Skilled professional consultants with one goal in mind: To protect and create wealth.</span>
+								<!-- /Subtitle -->
+							</span>
+						</a>
+					</div>
+				</div>
+			</div>
+		</li>
+		<!-- /Slide #1 -->
+		<!-- Slide #2 -->
+		<li>
+			<div>
+				<!-- Image -->
+				<img src="app/images/stidhamfinancial/team-3-med.JPG" alt=""/>
+				<!-- /Image -->
+				<div class="home-carousel-title-box">
+					<div class="main">
+						<a href="#about" class="color-blue">
+							<span>
+								<!-- Title -->
+								<span>We have a wide array of products to fit your goals and needs.</span>
+								!-- /Title -->
+								<!-- Subtitle -->
+								<span>Skilled professional consultants with one goal in mind: To protect and create wealth.</span>
+								!-- /Subtitle -->
+							</span>
+						</a>
+					</div>
+				</div>
+			</div>
+		</li>
+		<!-- /Slide #2 -->
+	</ul>
+	<!-- Carousel -->
+
+
+	<!-- Carousel -->
+					<ul class="home-carousel update-carousel-disable " id="image_slider">
+						<!-- Slide #1 -->
+						<li>
+							<div>
+								<!-- Image -->
+								<img src="images/stidhamfinancial/sign-3-med.jpg" alt="sign"/>
+								<!-- /Image -->
+								<div class="home-carousel-title-box">
+									<div class="main">
+										<a href="#about" class="color-blue">
+											<span>
+												<!-- Title -->
+												<span>Search no more for personalized advice</span>
+												<!-- /Title -->
+												<!-- Subtitle -->
+												<span>Skilled professional consultants with one goal in mind: To protect and create wealth.</span>
+												<!-- /Subtitle -->
+											</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</li>
+						<!-- /Slide #1 -->
+
+						<!-- Slide #2 -->
+						<li>
+							<div>
+								<!-- Image -->
+								<img src="images/stidhamfinancial/team-3-med.jpg" alt=""/>
+								<!-- /Image -->
+								<div class="home-carousel-title-box">
+									<div class="main">
+										<a href="#about" class="color-blue">
+											<span>
+												<!-- Title -->
+												<span>We have a wide array of products to fit your goals and needs.</span>
+												<!-- /Title -->
+												<!-- Subtitle -->
+												<span>Skilled professional consultants with one goal in mind: To protect and create wealth.</span>
+												<!-- /Subtitle -->
+											</span>
+										</a>
+									</div>
+								</div>
+							</div>
+						</li>
+						<!-- /Slide #2 -->
+					</ul>
+					<!-- Carousel -->
